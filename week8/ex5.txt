@@ -1,0 +1,5 @@
+A physical address is simply the address of some data that is stored in the physical RAM chips.
+For example, we can access some data (e.g. variable) at address 0x3b21ba.
+
+A virtual address is the address (usually not real) that stored in page table and corresponds (translates via MMU) to the physical address.
+The programs usually use it, while the CPU used it to fetch the data. The size of virtual address depends on the system.

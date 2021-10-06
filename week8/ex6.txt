@@ -1,0 +1,14 @@
+Given 16-bit virtual address, 8 KB (0-8191) page size
+
+So, the virtual address consits of:
+1) offset - number of bits required for bits size, in our case 13-bit (2^13=8192),
+
+|#|#|#|#|#|#|#|#|#|#|##|##|##|  |  |  | 
+ 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+
+2) virtual pages - defined by the number of remaining bits, in our case 16-13=3-bit.
+
+| | | | | | | | | | |  |  |  |##|##|##|
+ 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+
+Therefore, we have 2^3=8 entries (virtual pages).
