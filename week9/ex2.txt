@@ -1,0 +1,14 @@
+Let's onsider a sequences: 
+1) 7 7 7 7
+2) 7 8 9 10
+hit/miss ratio: 1) 3/1 = 3.0; 2) 0/4 = 0.0
+
+So it means that we can get:
+The best ratio when all references will be equal to each other.
+In the general case for n references we have n-1 hit/miss ratio (since the page frames are empty initially the first reference entry will result in miss).
+
+The worst ratio when all references will be distinct.
+In the general case for n distinct references we have 0.0 hit/miss ratio (since any of references are not equal the every reference entry will result in miss).
+
+Therefore, to increase the ratio we should tend to use as much same page references as we can.
+To decrease the ratio we should tend to not repeat the page reference entries.
