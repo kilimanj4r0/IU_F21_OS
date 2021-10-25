@@ -1,0 +1,5 @@
+   rwx rwx rwx
+    u	g   o
+1) 110 110 000 == 660 -> user(owner) & group can read & write, others cannot do anything
+2) 111 111 101 == 775 -> user(owner) & group can read & write & execute, others can read & execute
+3) 111 111 111 == 777 -> all can do all

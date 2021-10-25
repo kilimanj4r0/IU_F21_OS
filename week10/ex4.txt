@@ -1,0 +1,4 @@
+106036 i-node
+/home/sm1rk/week10/link1
+/home/sm1rk/week10/tmp/file1
+
