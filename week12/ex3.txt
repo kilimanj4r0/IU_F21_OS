@@ -1,0 +1,29 @@
+Implemented shortcuts:
+P + E: "I passed the Exam!"
+C + A + P: "Get some cappuccino!"
+L + O + V + E: "Do love!"
+dsd
+ppI passed the Exam!
+ePI passed the Exam!
+EPI passed the Exam!
+EI passed the Exam!
+ecxccaGet some cappuccino!
+lovcaGet some cappuccino!                             
+paaaaaacaGet some cappuccino!
+pcaGet some cappuccino!
+pcaGet some cappuccino!
+pcaGet some cappuccino!
+pcaGet some cappuccino!
+plovvloooooolooooooooolovwaWWWA     AAAAW
+
+
+
+
+
+
+
+
+
+
+
+looooooooovDo love!
