@@ -1,0 +1,11 @@
+Recovery
+Useful when we care about the performance.
+It is not advisable to break any deadlock condition, better to recover the deadlock.
+
+Prevention
+Useful when we prefer the stability and safety over the performance.
+It is possible to neglect one of the four deadlock conditions instead of handle deadlock and recover them.
+
+Avoidance
+Useful when the deadlocks are not preferred, but we still care about the performance.
+We also have no intention to break some deadlock condtions.
