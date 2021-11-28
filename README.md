@@ -1,2 +1,2 @@
-# IU_F21_OS
-Operating Systems Course, Fall 2021 Semester, Innopolis University
+# Operating Systems Course, Fall 2021 Semester, Innopolis University
+The solutions of the lab assignments
